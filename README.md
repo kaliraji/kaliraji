@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaliraj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Auditplus Web](https://github.com/auditplus/auditplus-web)
+- 🔭 I’m currently working on [Auditplus](https://github.com/auditplus)
 
 - 🌱 I’m currently learning **React**
 
