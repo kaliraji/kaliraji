@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on [Auditplus Web](https://github.com/auditplus/auditplus-web)
-
 - 💬 Ask me about **React, Angular**
 
 <h3 align="left">Languages and Tools:</h3>
