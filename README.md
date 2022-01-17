@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Auditplus](https://github.com/auditplus)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React, Angular**
 
 - 💬 Ask me about **React, Angular**
 
